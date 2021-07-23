@@ -33,7 +33,6 @@ function getLogo(){
 
     
     echo json_encode($tab_list);
-
 }
 
 getLogo();
